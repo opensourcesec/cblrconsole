@@ -1,0 +1,8 @@
+# cbapi
+requests 
+colorama 
+prettytable 
+simplejson
+PyCrypto
+simple-crypt
+pyaml
