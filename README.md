@@ -1,6 +1,6 @@
 
 ![alt tag](docs/cblr-icon_FINAL.png) 
-## CaBLR (Cobbler) Console
+## CBLR (Cobbler) Console
 
 ### Utilizes the Carbon Black Sensor API
 *Introduced in v5.0*
